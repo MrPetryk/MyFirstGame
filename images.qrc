@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/images_button">
+        <file>images.svg</file>
+        <file>images2.png</file>
+        <file>images3.svg</file>
+    </qresource>
+</RCC>
